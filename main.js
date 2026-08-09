@@ -4,6 +4,7 @@ gsap.registerPlugin(
   CustomWiggle,
   Physics2DPlugin,
   ScrollTrigger
+  
 );
 
 class confettiCannon {
